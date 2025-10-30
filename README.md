@@ -102,20 +102,6 @@ When the app launches:
 
 ---
 
-## 🗂️ Project Structure
-
-```
-llama.cpp-android-java/
-├── app/                     # Android Java app (UI, ViewModel, permissions, RecyclerView chat)
-├── llama/                   # Android module containing JNI/C++ glue and CMakeLists.txt
-├── scripts/                 # Optional build/packaging helpers
-├── models/                  # (optional) local placeholder for sample models
-├── CMakeLists.txt           # Root-level CMake (if present)
-└── README.md
-```
-
----
-
 ## ❓ Troubleshooting
 
 - **Build fails: NDK/CMake not found**  
@@ -148,13 +134,6 @@ llama.cpp-android-java/
 - No analytics or telemetry  
 - All prompts and generations stay **on-device**
 
----
-
-## 🪪 License
-
-This project is released under the **MIT License**. See `LICENSE` for details.
-
----
 
 ## 🙏 Credits
 
