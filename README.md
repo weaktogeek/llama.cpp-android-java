@@ -1,4 +1,4 @@
-# 🧠 ThinkOffline
+# 🧠 Offline.AI
 > **Offline AI Chat for Android — Run llama.cpp locally in Java with no internet, no cloud, full privacy.**
 
 ![Android](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-**ThinkOffline** is an Android app that runs **llama.cpp** models fully on-device, written in **Java** and integrated through **JNI (Java Native Interface)**.  
+**Offline.AI** is an Android app that runs **llama.cpp** models fully on-device, written in **Java** and integrated through **JNI (Java Native Interface)**.  
 It provides an **offline AI chat experience** — no internet required, no cloud inference, and complete data privacy.
 
 This project showcases how to embed **llama.cpp** inside an Android app, load **GGUF** models, and perform **text generation locally**.
